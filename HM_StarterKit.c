@@ -8,6 +8,11 @@
 /*  NOTE:THIS IS A TYPICAL EXAMPLE.                                    */
 /*                                                                     */
 /***********************************************************************/
+
+
+//2023,2,16 gitリポジトリをリセット
+
+
 //#include "typedefine.h"
 #include "iodefine.h"
 #include "mathf.h"
